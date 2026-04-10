@@ -1,0 +1,26 @@
+{
+  "name": "3-card-poker-malaysia-guide",
+  "version": "1.0.0",
+  "description": "Free online poker game for Malaysian players",
+  "main": "index.html",
+  "keywords": [
+    "poker",
+    "online-game",
+    "casino",
+    "browser-game",
+    "javascript",
+    "html5",
+    "free-game",
+    "malaysia"
+  ],
+  "author": "HGJ Poker",
+  "license": "MIT",
+  "homepage": "https://johmark2026-svg.github.io/3-card-poker-malaysia-guide/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johmark2026-svg/3-card-poker-malaysia-guide.git"
+  },
+  "scripts": {
+    "start": "python3 -m http.server 8080"
+  }
+}
